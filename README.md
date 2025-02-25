@@ -1,16 +1,40 @@
-# todo_app
+# To-Do App
 
-A new Flutter project.
+## Overview
+The **To-Do App** is a simple and intuitive task management application built using Flutter. It allows users to create, update, and manage their daily tasks efficiently.
 
-## Getting Started
+## Features
+- Add new tasks
+- Delete tasks
+- User-friendly UI
+- Data storage using HIVE
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/UmarTanwar3527/todo_app.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd todo_app
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the application:
+   ```sh
+   flutter run
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contribution
+Feel free to contribute by submitting issues or pull requests.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+**Mohammed Umar Tanwar**  
+[GitHub](https://github.com/UmarTanwar3527) | [LinkedIn](https://www.linkedin.com/in/umartanwar/)
+
