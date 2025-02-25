@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
     showDialog(
         context: context,
         builder: (context) => AlertDialog(
-              title: Text('Add a new todo'),
+              title: const Text('Add a new todo'),
               content: TextField(
                 autofocus: true,
                 controller: _textController,
